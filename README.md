@@ -1,5 +1,5 @@
 # Algo VPN
-
+A Fast setup of Algo VPN with a script, as well a backup (of a functional Algo-VPN) the purpose is for 22.04 and 24.04 or python-11 or higher.
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40AlgoVPN)](https://twitter.com/AlgoVPN)
 [![](https://github.com/trailofbits/algo/workflows/Main/badge.svg?branch=master)](https://github.com/trailofbits/algo/actions)
 
