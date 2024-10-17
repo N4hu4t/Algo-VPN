@@ -1,5 +1,18 @@
-# Algo VPN
+# Fast Algo VPN
 A Fast setup of Algo VPN with a script, as well a backup (of a functional Algo-VPN) the purpose is for 22.04 and 24.04 or python-11 or higher.
+* You just need install-server.sh
+```
+wget https://raw.githubusercontent.com/N4hu4t/Algo-VPN/refs/heads/master/install-server.sh
+chmod +x install-server.sh
+./install-server.sh
+```
+* In the install-server.sh put your server IP, follow the Algo prompt.
+* When it finish you will get a qrcode where you can scan using wireguard in the phone.
+* 3 Profiles should be created. 
+* Recommended: Do the setup in a ubuntu server, press Y to all prompts, and then in the connection section write `localhost` press enter and then `server_ip`.
+Then it should finish and you will get a qr code.
+* If any problems sumbit an issue. Thanks.
+# Algo VPN
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40AlgoVPN)](https://twitter.com/AlgoVPN)
 [![](https://github.com/trailofbits/algo/workflows/Main/badge.svg?branch=master)](https://github.com/trailofbits/algo/actions)
 
